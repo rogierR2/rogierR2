@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: e-mail me: rogier-RC@live.nl.
+- 📫 E-mail me: rogier-RC@live.nl.
